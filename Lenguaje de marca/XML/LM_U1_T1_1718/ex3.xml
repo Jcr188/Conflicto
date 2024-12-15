@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Dam>
+    <Horario>
+        <Materias>
+               <tramo>Bad</tramo>
+               <tramo>Bad</tramo>
+               <tramo>Pro</tramo>
+               <tramo>Pro</tramo>
+               <tramo>Sis</tramo>
+               <tramo>Sis</tramo>
+               <dias>Lunes</dias>
+                <Profesores>
+                    <Profesor>
+                        <nombre>Teo</nombre>
+                        <Asignatura>Bad</Asignatura>
+                        <Edad>35</Edad>
+                        <horas>8:30 - 9:30</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Teo</nombre>
+                        <Asignatura>Bad</Asignatura>
+                        <Edad>35</Edad>
+                        <horas>9:30 - 10:30</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Alejandro</nombre>
+                        <Asignatura>Pro</Asignatura>
+                        <Edad>32</Edad>
+                        <horas>10:30 - 11:30</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Asignatura>Recreo</Asignatura>
+                        <horas>11:30 - 12:00</horas>
+                    <Profesor>
+                        <nombre>Alejandro</nombre>
+                        <Asignatura>Pro</Asignatura>
+                        <Edad>32</Edad>
+                        <horas>12:00 - 13:00</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Jose</nombre>
+                        <Asignatura>Sis</Asignatura>
+                        <Edad>48</Edad>
+                        <horas>13:00 - 14:00</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Jose</nombre>
+                        <Asignatura>Sis</Asignatura>
+                        <Edad>48</Edad>
+                        <horas>14:00 - 15:00</horas>
+                        <aula>199</aula> 
+                    </Profesor>
+                </Profesores>
+               <tramo>Bad</tramo>
+               <tramo>Bas</tramo>
+               <tramo>Pro</tramo>
+               <tramo>Pro</tramo>
+               <tramo>Sis</tramo>
+               <tramo>Sis</tramo>
+               <dias>Martes</dias>
+                <Profesores>
+                    <Profesor>
+                        <nombre>Teo</nombre>
+                        <Asignatura>Bad</Asignatura>
+                        <Edad>35</Edad>
+                        <horas>8:30 - 9:30</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Teo</nombre>
+                        <Asignatura>Bad</Asignatura>
+                        <Edad>35</Edad>
+                        <horas>9:30 - 10:30</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Alejandro</nombre>
+                        <Asignatura>Pro</Asignatura>
+                        <Edad>32</Edad>
+                        <horas>10:30 - 11:30</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Asignatura>Recreo</Asignatura>
+                        <horas>11:30 - 12:00</horas>
+                    <Profesor>
+                        <nombre>Alejandro</nombre>
+                        <Asignatura>Pro</Asignatura>
+                        <Edad>32</Edad>
+                        <horas>12:00 - 13:00</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Jose</nombre>
+                        <Asignatura>Sis</Asignatura>
+                        <Edad>48</Edad>
+                        <horas>13:00 - 14:00</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Jose</nombre>
+                        <Asignatura>Sis</Asignatura>
+                        <Edad>48</Edad>
+                        <horas>14:00 - 15:00</horas>
+                        <aula>199</aula> 
+                    </Profesor>
+                </Profesores>
+               <tramo>Ent</tramo>
+               <tramo>Ent</tramo>
+               <tramo>Len</tramo>
+               <tramo>Len</tramo>
+               <tramo>Pro</tramo>
+               <tramo>Pro</tramo>
+               <dias>Miercoles</dias>
+                <Profesores>
+                    <Profesor>
+                        <nombre>Teo</nombre>
+                        <Asignatura>Ent</Asignatura>
+                        <Edad>35</Edad>
+                        <horas>8:30 - 9:30</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Teo</nombre>
+                        <Asignatura>Ent</Asignatura>
+                        <Edad>35</Edad>
+                        <horas>9:30 - 10:30</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Miguel</nombre>
+                        <Asignatura>Len</Asignatura>
+                        <Edad>33</Edad>
+                        <horas>10:30 - 11:30</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Asignatura>Recreo</Asignatura>
+                        <horas>11:30 - 12:00</horas>
+                    <Profesor>
+                        <nombre>Miguel</nombre>
+                        <Asignatura>Len</Asignatura>
+                        <Edad>33</Edad>
+                        <horas>12:00 - 13:00</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Alejandro</nombre>
+                        <Asignatura>Pro</Asignatura>
+                        <Edad>32</Edad>
+                        <horas>13:00 - 14:00</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Alejandro</nombre>
+                        <Asignatura>Pro</Asignatura>
+                        <Edad>32</Edad>
+                        <horas>14:00 - 15:00</horas>
+                        <aula>199</aula> 
+                    </Profesor>
+               <tramo>Ipe</tramo>
+               <tramo>Ipe</tramo>
+               <tramo>Pro</tramo>
+               <tramo>Pro</tramo>
+               <tramo>Sos</tramo>
+               <tramo>Len</tramo>
+               <dias>Jueves</dias>
+                </Profesores>
+                <Profesores>
+                    <Profesor>
+                        <nombre>Maria</nombre>
+                        <Asignatura>Ipe</Asignatura>
+                        <Edad>42</Edad>
+                        <horas>8:30 - 9:30</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Maria</nombre>
+                        <Asignatura>Ipe</Asignatura>
+                        <Edad>42</Edad>
+                        <horas>9:30 - 10:30</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Alejandro</nombre>
+                        <Asignatura>Pro</Asignatura>
+                        <Edad>32</Edad>
+                        <horas>10:30 - 11:30</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Asignatura>Recreo</Asignatura>
+                    <Profesor>
+                        <nombre>Alejandro</nombre>
+                        <Asignatura>Pro</Asignatura>
+                        <Edad>32</Edad>
+                        <horas>12:00 - 13:00</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Alejandro</nombre>
+                        <Asignatura>Sos</Asignatura>
+                        <Edad>32</Edad>
+                        <horas>13:00 - 14:00</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Miguel</nombre>
+                        <Asignatura>Len</Asignatura>
+                        <Edad>33</Edad>
+                        <horas>14:00 - 15:00</horas>
+                        <aula>199</aula> 
+                    </Profesor>
+               <tramo>Ipe</tramo>
+               <tramo>Sis</tramo>
+               <tramo>Bad</tramo>
+               <tramo>Bad</tramo>
+               <tramo>Ent</tramo>
+               <tramo>Dig</tramo>
+               <dias>Viernes</dias>
+                </Profesores>
+                <Profesores>
+                    <Profesor>
+                        <nombre>Maria</nombre>
+                        <Asignatura>Ipe</Asignatura>
+                        <Edad>42</Edad>
+                        <horas>8:30 - 9:30</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Jose</nombre>
+                        <Asignatura>Sis</Asignatura>
+                        <Edad>48</Edad>
+                        <horas>9:30 - 10:30</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Teo</nombre>
+                        <Asignatura>Bad</Asignatura>
+                        <Edad>35</Edad>
+                        <horas>10:30 - 11:30</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Asignatura>Recreo</Asignatura>
+                        <horas>11:30 - 12:00</horas>
+                    <Profesor>
+                        <nombre>Teo</nombre>
+                        <Asignatura>Bad</Asignatura>
+                        <Edad>35</Edad>
+                        <horas>12:00 - 13:00</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Teo</nombre>
+                        <Asignatura>Ent</Asignatura>
+                        <Edad>35</Edad>
+                        <horas>13:00 - 14:00</horas>
+                        <aula>199</aula>
+                    </Profesor>
+                    <Profesor>
+                        <nombre>Miguel</nombre>
+                        <Asignatura>Dig</Asignatura>
+                        <Edad>33</Edad>
+                        <horas>14:00 - 15:00</horas>
+                        <aula>199</aula> 
+                    </Profesor>
+                </Profesores>
+        </Materias>    
+    </Horario>
+</Dam>

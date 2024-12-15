@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Pccomready4060w>
+    <hardware>
+        <piezas>
+            <tipo>Fuente de alimentación</tipo>
+            <precio>52,99€</precio>
+            <Fabricante>Tempest Gaming</Fabricante>
+            <Caracteristicas>Forgeon SI Series PSU 650W 80+ Bronze</Caracteristicas>
+        </piezas>
+        <piezas>
+            <tipo>Procesador</tipo>
+            <precio>116,99€</precio>
+            <Fabricante>Intel</Fabricante>
+            <Caracteristicas>Intel Core i5-12400F 2.5 GHz</Caracteristicas>
+        </piezas>
+        <piezas>
+            <tipo>Caja</tipo>
+            <precio>75,98€</precio>
+            <Fabricante>Tempest Mirage</Fabricante>
+            <Caracteristicas>Tempest Mirage RGB Mesh Torre ATX Negra</Caracteristicas>
+        </piezas>
+        <piezas>
+            <tipo>Placa Base</tipo>
+            <precio>98,99€</precio>
+            <Fabricante>Gigabyte</Fabricante>
+            <Caracteristicas>Gigabyte B760M DS3H DDR4</Caracteristicas>
+        </piezas>
+          <piezas>
+            <tipo>Disco Duro</tipo>
+            <precio>72€</precio>
+            <Fabricante>WD Blue</Fabricante>
+            <Caracteristicas>WD Blue SN580 1TB SSD M.2 PCIe 4.0 NVMe</Caracteristicas>
+        </piezas>
+            <piezas>
+            <tipo>Memoria Ram</tipo>
+            <precio>65,80€</precio>
+            <Fabricante>Kingston</Fabricante>
+            <Caracteristicas>Kingston FURY Beast DDR4 3200 MHz 32GB 2x16GB CL16</Caracteristicas>
+        </piezas>
+            <piezas>
+            <tipo>Tarjeta Gráfica</tipo>
+            <precio>339,90€</precio>
+            <Fabricante>GeForce</Fabricante>
+            <Caracteristicas>GeForce RTX 4060 WINDFORCE 8GB GDDR6 DLSS3</Caracteristicas>
+        </piezas>
+    
+    </hardware>
+</Pccomready4060w>

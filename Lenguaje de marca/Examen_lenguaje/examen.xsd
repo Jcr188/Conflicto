@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="television">
+       <xs:complexType>
+           <xs:sequence>
+
+               <xs:element name="Duracion" type="xs:string"/>
+               <xs:element name="titulo" type="xs:string"/>
+               <xs:element name="descripcion" type="xs:string"/>
+               <xs:element name="clasificacion" type="xs:int"/>
+           </xs:sequence>
+            <xs:attribute name="dias" type="xs:int" use="required"/>
+       </xs:complexType>
+    </xs:element>
+    <xs:element name="anuncios">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="marca" type="xs:string"/>
+                <xs:element name="duracion" type="xs:string"/>
+                <xs:element name="horario" type="xs:int"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

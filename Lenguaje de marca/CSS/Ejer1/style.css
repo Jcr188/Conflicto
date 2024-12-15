@@ -1,0 +1,93 @@
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+    text-align: center;
+}
+th{
+    width: 55px;
+}
+.mp3{
+    width: 55px;
+    font-size: 35px;
+    text-align: center;
+    background-color: gray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.mp3_grande{
+    width: 100px;
+
+}
+.primera_columna {
+    background-color: red;
+    color: white;
+}
+.imagen{
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+}
+.fondoImagen{
+    background-color: blue;
+}
+#enunciado{
+    text-align: center;
+    font-size: 36px;
+}
+
+.padding{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#azul{
+    background-color: blue;
+    color: red;
+
+}
+.pulgadas{
+    background-color: blue;
+    font-size: 15px;
+    padding: 1px;
+}
+#pantalla{
+    padding: 1px;
+}
+#hora{
+    background-color: blue;
+    width: 200px;
+    height: 120px;
+    font-weight: bold;
+
+}
+#cinco{
+    background-color: yellow;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-weight: bold;
+
+}
+#rojo{
+    color:red;
+
+
+}
+
+#tabla{
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    border-collapse: collapse
+
+
+}
+
+td[colspan= "2"], td[colspan="3"] {
+    background-color: blue;
+}
+
+

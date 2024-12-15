@@ -1,0 +1,36 @@
+.verde:nth-child(1){
+    background-color: chartreuse;
+    margin-right: 30px;
+}
+#recreo:nth-child(2){
+    background-color: yellow;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: -15px;
+}
+.dias{
+    width: 150px; text-align: center
+}
+a:link{
+    text-decoration: none;
+    color: #3d7303;
+    font-size: 19px;
+}
+a:visited{
+    color: red;
+}
+#viernes:hover{
+    font-size: 30px;
+}
+.dias::first-letter{
+    font-size: 30px;
+}
+#nombre{
+    margin-top: 5px;
+    border-color: red;
+}
+#aste{
+    color: red;
+}

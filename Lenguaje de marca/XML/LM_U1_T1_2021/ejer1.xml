@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Torneo>
+    <nombre>Open de Palma Del Rio</nombre>
+    <Fechas>
+        <Inicio>02/10/2024 </Inicio>
+        <Finalizacion>11/10/2024</Finalizacion>
+    </Fechas>
+        <Partido>
+            <Fecha>02/10/2024</Fecha>
+            <Jugadores>
+                <Jugador_a>
+                    <nombre>Carlos</nombre>
+                    <Edad>25</Edad>
+                    <Nacionalidad>Espana</Nacionalidad>
+                </Jugador_a>
+                <Jugador_b>
+                    <nombre>Jesus</nombre>
+                    <Edad>28</Edad>
+                    <Nacionalidad>Espana</Nacionalidad>
+                </Jugador_b>
+            <Resultado>
+                <Set> 6-3, 6-4, 6-1</Set>
+                <ganador>Carlos</ganador>
+            </Resultado>
+            </Jugadores>
+        </Partido>
+        <Partido>
+            <Fecha>03/10/2024</Fecha>
+            <Jugadores>
+                <Jugador_a>
+                    <nombre>Anas</nombre>
+                    <Edad>24</Edad>
+                    <Nacionalidad>Marruecos</Nacionalidad>
+                </Jugador_a>
+                <Jugador_b>
+                    <nombre>Putin</nombre>
+                    <Edad>38</Edad>
+                    <Nacionalidad>Rusia</Nacionalidad>
+                </Jugador_b>
+            <Resultado>
+                <Set> 6-3, 7-5, 6-4</Set>
+                <ganador>Anas</ganador>
+            </Resultado>
+             </Jugadores>
+        </Partido>
+        <Partido>
+            <Fecha>04/10/2024</Fecha>
+            <Jugadores>
+                <Jugador_a>
+                    <nombre>Jose</nombre>
+                    <Edad>26</Edad>
+                    <Nacionalidad>Espana</Nacionalidad>
+                </Jugador_a>
+                <Jugador_b>
+                    <nombre>Donal Trump</nombre>
+                    <Edad>39</Edad>
+                    <Nacionalidad>Estados Unidos</Nacionalidad>
+                </Jugador_b>
+            <Resultado>
+                <Set> 3-6, 2-6, 1-6</Set>
+                <ganador>Trump</ganador>
+            </Resultado>
+            </Jugadores>
+        </Partido>
+        <Partido>
+            <Fecha>05/10/2024</Fecha>
+            <Jugadores>
+                <Jugador_a>
+                    <nombre>Leonardo Dicaprio</nombre>
+                    <Edad>25</Edad>
+                    <Nacionalidad>Estados Unidos</Nacionalidad>
+                </Jugador_a>
+                <Jugador_b>
+                    <nombre>Javi</nombre>
+                    <Edad>20</Edad>
+                    <Nacionalidad>Espana</Nacionalidad>
+                </Jugador_b>
+            <Resultado>
+                <Set> 5-7, 2-6, 2-6</Set>
+                <ganador>Javi</ganador>
+            </Resultado>
+            </Jugadores>
+        </Partido>
+        <Partido>
+            <Fecha>06/10/2024</Fecha>
+            <Jugadores>
+                <Jugador_a>
+                    <nombre>Manolo</nombre>
+                    <Edad>28</Edad>
+                    <Nacionalidad>Espana</Nacionalidad>
+                </Jugador_a>
+                <Jugador_b>
+                    <nombre>Pol</nombre>
+                    <Edad>29</Edad>
+                    <Nacionalidad>Espana</Nacionalidad>
+                </Jugador_b>
+            <Resultado>
+                <Set> 6-3, 6-4, 6-1</Set>
+                <ganador>Manolo</ganador>
+            </Resultado>
+            </Jugadores>
+        </Partido>
+        <Partido>
+            <Fecha>07/10/2024</Fecha>
+            <Jugadores>
+                <Jugador_a>
+                    <nombre>Antonio</nombre>
+                    <Edad>25</Edad>
+                    <Nacionalidad>Espana</Nacionalidad>
+                </Jugador_a>
+                <Jugador_b>
+                    <nombre>Emil</nombre>
+                    <Edad>28</Edad>
+                    <Nacionalidad>Aleman</Nacionalidad>
+                </Jugador_b>
+            <Resultado>
+                <Set> 6-2, 6-1, 6-1</Set>
+                <ganador>Antonio</ganador>
+            </Resultado>
+            </Jugadores>
+        </Partido>
+        <Partido>
+            <Fecha>08/10/2024</Fecha>
+            <Jugadores>
+                <Jugador_a>
+                    <nombre>Sergio</nombre>
+                    <Edad>21</Edad>
+                    <Nacionalidad>Espana</Nacionalidad>
+                </Jugador_a>
+                <Jugador_b>
+                    <nombre>Alberto</nombre>
+                    <Edad>22</Edad>
+                    <Nacionalidad>Espana</Nacionalidad>
+                </Jugador_b>
+                <Resultado>
+                    <Set> 6-3, 6-4, 6-1</Set>
+                    <ganador>Sergio</ganador>
+                </Resultado>
+            </Jugadores>
+        </Partido>
+        <Partido>
+            <Fecha>09/10/2024</Fecha>
+            <Jugadores>
+                <Jugador_a>
+                    <nombre>Emilio</nombre>
+                    <Edad>25</Edad>
+                    <Nacionalidad>Espana</Nacionalidad>
+                </Jugador_a>
+                <Jugador_b>
+                    <nombre>Rafael</nombre>
+                    <Edad>28</Edad>
+                    <Nacionalidad>Espana</Nacionalidad>
+                </Jugador_b>
+                <Resultado>
+                    <Set> 2-6, 2-6, 1-6</Set>
+                    <ganador>Rafael</ganador>
+                </Resultado>
+            </Jugadores>
+        </Partido>
+        <Partido>
+            <Fecha>10/10/2024</Fecha>
+            <Jugadores>
+                <Jugador_a>
+                    <nombre>Pino</nombre>
+                    <Edad>25</Edad>
+                    <Nacionalidad>Espana</Nacionalidad>
+                </Jugador_a>
+                <Jugador_b>
+                    <nombre>Rafa</nombre>
+                    <Edad>28</Edad>
+                    <Nacionalidad>Espana</Nacionalidad>
+                </Jugador_b>
+                <Resultado>
+                    <Set> 6,2 6,1 6,1</Set>
+                    <ganador>Pino</ganador>
+                </Resultado>
+            </Jugadores>
+        </Partido>
+        <Partido>
+            <Fecha>11/10/2024</Fecha>
+            <Jugadores>
+                <Jugador_a>
+                    <nombre>Joseluis</nombre>
+                    <Edad>25</Edad>
+                    <Nacionalidad>Espana</Nacionalidad>
+                </Jugador_a>
+                <Jugador_b>
+                    <nombre>Miguel</nombre>
+                    <Edad>21</Edad>
+                    <Nacionalidad>Espana</Nacionalidad>
+                </Jugador_b>
+                <Resultado>
+                    <Set> 6,4 6,4 6,2</Set>
+                    <ganador>Joseluis</ganador>
+                </Resultado>
+            </Jugadores>
+    </Partido>
+</Torneo>

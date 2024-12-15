@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Primer HTML en LM</title>
+  <style>
+    table, th, td {
+      border: 1px solid red;
+    }
+  </style>
+  <!-- Otras referencais como a los CSS o al archivo Java-->
+
+  <!-- Este style de td se aplica a todos los td-->
+  <style>
+
+    td{
+      border: 1px solid black;
+      border-collapse: collapse;
+    }
+  </style>
+</head>
+<body>
+<!-- Todo lo que hay aqui se muestra en la pagina web-->
+<h1> El titulo mas grande</h1>
+<h2> Otro mas pequeno</h2>
+<h3> Otro aun mas</h3>
+<span>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet nemo ad, voluptatibus, ratione debitis vel, eum placeat atque delectus iste dolor blanditiis nisi! Vel distinctio eligendi aut a dicta maxime.</span>
+<span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda accusamus enim, ad possimus eaque quo, ex libero minima beatae quasi corrupti, mollitia maiores impedit dignissimos iure nobis nesciunt nemo? Placeat?</span>
+<!-- span style=color sirve para señalar la frase o palabra que tu quieras de un color -->
+<p>Lorem ipsum <span style="color: blue"> dolor</span> sit amet consectetur adipisicing elit. Dolores voluptatem quibusdam, illo tenetur ipsa in culpa incidunt ullam ducimus dignissimos eum iste distinctio? Accusantium deleniti corrupti reiciendis praesentium. Hic, nulla.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum asperiores dicta debitis, similique quae quaerat odit voluptas, neque suscipit nisi culpa assumenda ut. Mollitia rem ducimus reiciendis et quisquam consequatur.</p>
+
+<!-- Hasta aquí es muy facil-->
+<div>Hola Mundo</div>
+<div>Adios Mundo</div>
+<!-- width sirve para darle o quitarle tamaño a una imagen. Height es para modificar la altura -->
+<img src="./images/churumbe.png" width="300" alt="Lepeganalgitano" >
+<br>
+<!-- Target _bank sirve para que te envíe a otra página creando otra pestaña -->
+<a target="_blank" href="https://as.com/futbol/">Diario AS</a>
+
+
+<!-- Tablas -->
+<table style="border: 1px solid black; border-collapse: collapse;">
+  <tr>
+    <td rowspan="2" colspan="2">1.1 </td>
+    <td rowspan="3"> 1.3</td>
+  </tr>
+  <tr>
+
+  </tr>
+  <tr>
+    <td colspan="2"> 3.1</td>
+  </tr>
+  <tr>
+    <td colspan="2">4.1</td>
+
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="2">1.1 </td>
+  </tr>
+
+</table>
+
+
+<!-- Listas -->
+<!-- ordered list -->
+<!-- unordered list-->
+<!-- li es un item, puede estar dentro de los dos-->
+
+<h1> Lista ordenada (Ordered List,  OL)</h1>
+<ol>
+  <li>Numero 1</li>
+  <li>Numero 2</li>
+
+</ol>
+
+
+<h1> Lista desordenada (Unordered List, UL)</h1>
+<ul>
+  <li>Hola</li>
+  <li>Adios</li>
+  <li> Incrusto otra lista, pero ordenada
+    <ol>
+      <li>Prueba 1</li>
+      <li>Prueba 2</li>
+    </ol>
+  </li>
+</ul>
+
+
+<!-- Formulario, el action se podría utilizar para configurar el comportamiento al enviar el formulario-->
+<form action="" method="post">
+  <!-- Campos del formulario-->
+  <label for="nombre">Nombre</label>
+  <input type="text" id="nombre" name="nombre" placeholder="Nombre"/>
+  <br>
+  <label for="nombre">Apellido</label>
+  <input type="text" id="Apellido" name="nombre" placeholder="Apellido"/>
+  <br>
+  <input type="submit"/>
+</form>
+<table style="width: 250px;">
+  <thead>
+    <tr>
+      <th>Producto</th>
+      <th>Precio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Hola marica</th>
+      <th>Gratis</th>
+    </tr>
+    <tr>
+      <th>Megatroll</th>
+      <th>20,00€</th>
+    </tr>
+    <tr>
+      <th>Nevado</th>
+      <th>Cora</th>
+    </tr>
+  </tbody>
+  <tfoot>
+    <td></td>
+    <td>Total: 20,00€</td>
+  </tfoot>
+</table>
+</body>
+</html>

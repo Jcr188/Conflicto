@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<relacion>
+    <persona sexo="hombre" carnet="A1111">
+        <nombre>Luis Martin</nombre>
+        <email>luis@hotmail.com</email>
+        <parentesco tipo="Padre"/>
+    </persona>
+    <persona sexo="mujer" carnet="B2222">
+        <nombre>Laura Martin</nombre>
+        <email>laura@hotmail.com</email>
+        <parentesco tipo="Hija"/>
+    </persona>
+    <persona carnet="C3333">
+        <nombre>Raul Gonzalez</nombre>
+        <email>raul@hotmail.com</email>
+        <email>raulin@gmail.com</email>
+    </persona>
+</relacion>

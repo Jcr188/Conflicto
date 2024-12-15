@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cine>
+    <cartelera>
+        <peliculas>
+            <nombre>Kill Bill</nombre>
+            <Director>Tarantino es un director que le gusta mucho la sangre</Director>
+            <protagonista_Principal>Uma Thurman</protagonista_Principal>
+            <protagonista>Daryl Hannah </protagonista>
+            <sala>4 y 6</sala>
+            <sesiones>17:00, 19:00, 22:00</sesiones>
+            <resumen>Mamba Negra es una asesina que, el día de su boda, es atacada por los miembros de la banda de su jefe, Bill. Sin embargo consigue sobrevivir, aunque queda en coma. Cinco años después despierta, con un deseo de venganza.</resumen>
+        </peliculas>
+
+        <peliculas>
+            <nombre>Iron Man</nombre>
+            <Director>Jon Favreau es un director, actor, guionista y productor de cine estadounidense.</Director>
+            <protagonista_Principal>Robert Downey Jr. como Tony Stark / Iron Man</protagonista_Principal>
+            <protagonista>Gwyneth Paltrow como Virginia "Pepper" Potts</protagonista>
+            <sala>1 y 3 </sala>
+            <sesiones>17:30, 20:00, 22:30</sesiones>
+            <resumen>La trama gira en torno a Tony Stark, un empresario e ingeniero, que construye un exoesqueleto motorizado y se convierte en Iron Man, un superhéroe tecnológicamente avanzado.</resumen>
+        </peliculas> 
+
+        <peliculas>
+            <nombre>Spider-Man</nombre>
+            <Director>Jon Watts</Director>
+            <protagonista_Principal>Tobey</protagonista_Principal>
+            <protagonista>Willem Dafoe / Duende verde</protagonista>
+            <sala>2 y 5</sala>
+            <sesiones>18:00, 19:30, 21:00</sesiones>
+            <resumen>Peter Parker es un adolescente como otro cualquiera. Vive con su tía May y su tío Ben, va al instituto y le encantan las clases de ciencias. Sin embargo, todo cambia el día que, durante una excursión del insituto a un laboratorio, ¡Peter es mordido por una araña radioactiva y se convierte en Spider-Man!</resumen>
+
+        </peliculas> 
+
+        <peliculas>
+            <nombre>Interstellar</nombre>
+            <Director>Christopher Nolan</Director>
+            <protagonista_Principal>Joseph Cooper</protagonista_Principal>
+            <protagonista>Dr. Mann</protagonista>
+            <sala>7 y 8</sala>
+            <sesiones>18:00, 19:30, 21:00</sesiones>
+            <resumen>El fin de nuestro tiempo en la Tierra se acerca y un equipo de exploradores realiza la más importante misión en la historia de la humanidad: viajar más allá de esta galaxia para descubrir si la humanidad tiene un futuro entre las estrellas.</resumen>
+
+        </peliculas>
+
+        <peliculas>
+            <nombre>La Trampa</nombre>
+            <Director>M. Night Shyamalan</Director>
+            <protagonista_Principal>Josh Hartnett</protagonista_Principal>
+            <protagonista>Hayley Mills</protagonista>
+            <sala> 9 y 10</sala>
+            <sesiones>18:30, 19:00, 21:30</sesiones>
+            <resumen>Un padre y su hija adolescente van a un concierto de música pop y allí se dan cuenta de que algo terrible y siniestro va a ocurrir en el evento.</resumen>
+        </peliculas>
+
+    </cartelera>
+</cine>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Instituto>
+    <profesores>
+        <nombre>Miguel</nombre>
+        <asignaturas>Lenguaje de marcas, Digitalización</asignaturas>
+            <alumnos>
+             <nombres>Jesus,Marcos,Alex,Pepe,Lucia,Laura,Oscar,Rafa,Sofia,Manuel</nombres>
+             </alumnos>
+
+    </profesores>
+                    
+    <profesores>
+        <nombre>Jose</nombre>
+        <asignaturas>Sistemas Informaticos, Sostenibilidad</asignaturas>
+            <alumnos>     
+            <nombre>Jesus,Marcos,Alex,Pepe,Lucia,Laura,Oscar,Rafa,Sofia,Manuel</nombre>
+
+            </alumnos>
+
+    </profesores>
+
+</Instituto>

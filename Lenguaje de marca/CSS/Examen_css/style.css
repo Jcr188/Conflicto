@@ -1,0 +1,63 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+#wrapper{
+    height: 60vh;
+    width: 60vw;
+    display: block;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+
+
+
+}
+#titulo{
+    margin-left: 30px;
+    font-size: 17px;
+
+}
+header h1 span{
+    color: blue;
+}
+
+#arriba{
+
+    background-color: black;
+    margin-right: 590px;
+    text-align: center;
+    margin-top: 100px;
+    margin-right: 40px;
+    margin-left:12px ;
+    font-size: 9px;
+}
+.grande:hover{
+    font-size: 240%;
+}
+
+#imagen{
+    width: 1000px;
+    margin-left: 150px;
+}
+#parrafo_uno{
+    padding-left: 300px;
+    padding-top: 2px;
+}
+#dentro_de_imagen{
+    background-color: gray;
+    opacity: 78.6%;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    font-size: 10px;
+}
+#fresh{
+    font-size:10px ;
+}
+#easy{
+    font-size: 10px;
+}
+#full{
+    font-size: 10px;
+}

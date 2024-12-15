@@ -1,0 +1,81 @@
+body {
+   margin: 0; width: 98.5vw; height: 99.3vh;
+}
+
+#arriba {
+   display: grid;
+   background-color: #244204;
+   grid-template-columns: auto 2fr auto;
+   padding: 13px 23px;
+   width: 100%;
+   height: 25%;
+}
+#aventura {
+   width: 160px;
+   align-items: center;
+}
+#titulo_uno {
+   font-size: 68px;
+   text-align: center;
+   color: white;
+   padding-top: 20px;
+   justify-content: center;
+   margin: 0;
+}
+#parrafo_uno{
+   font-size: 20px;
+   color: white;
+   text-align: center;
+   justify-content: center;
+   margin-top: -20px;
+}
+#texto {
+   display: grid;
+   background-color: #daa87a;
+   grid-template-columns: auto 1fr auto;
+   width: 105.6%;
+   height: 78.2%;
+}
+
+#lugar {
+   padding-left: 150px;
+   padding-top: 80px;
+   width: 500px;
+
+}
+#titulo {
+   padding-left: 166px;
+}
+#parrafo {
+   padding-left: 166px;
+   font-size: 18px;
+}
+#menu {
+   background-color: #1e3404;
+   text-align: center;
+   border: #1e3404 solid 2px;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+   color: white;
+   max-width: 460px;
+}
+
+#div_dos {
+   padding-top: 100px;
+   padding-left: 230px;
+
+}
+#formularioo {
+   padding: 30px;
+   max-width: 403px;
+   background-color: #626267;
+
+}
+.formulario {
+   width: 380px;
+   height: 33px;
+}
+select {
+   width: 388px;
+   height: 40px;
+}

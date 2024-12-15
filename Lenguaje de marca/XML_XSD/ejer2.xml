@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiporder>
+    <orderperson>Raul</orderperson>
+    <shipto>
+        <nombre>Javi</nombre>
+        <direccion>calle peña</direccion>
+        <ciudad>Sevilla</ciudad>
+        <pais>España</pais>
+    </shipto>
+    <item>
+        <titulo>Caracol</titulo>
+        <nota>Holaa</nota>
+        <cantidad>200</cantidad>
+        <precio>12,99</precio>
+    </item>
+    <item>
+        <titulo>Pepito</titulo>
+        <nota>Adios</nota>
+        <cantidad>100</cantidad>
+        <precio>54,55</precio>
+    </item>
+</shiporder>

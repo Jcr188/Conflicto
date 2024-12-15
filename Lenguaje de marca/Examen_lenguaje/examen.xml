@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<transporte>
+    <coche>
+        <taxi>
+            <conductor name="taxista">
+                <dni>32423484E</dni>
+                <telefono>4453435467</telefono>
+                <matricula>fh5435</matricula>
+            </conductor>
+                <velocidad_máxima>180</velocidad_máxima>
+                <contaminacion_CO2>20</contaminacion_CO2>
+                <medio_movimiento>carretera</medio_movimiento>
+                <pasajeros>4</pasajeros>
+
+        </taxi>
+
+    </coche>
+    <tren>
+        <cercania>
+            <conductor name="maquinista">
+                <dni>32423467I</dni>
+                <telefono>4323435467</telefono>
+                <matricula>gg5435</matricula>
+            </conductor>
+            <velocidad_máxima>300</velocidad_máxima>
+            <contaminacion_CO2>40</contaminacion_CO2>
+            <medio_movimiento>vias</medio_movimiento>
+            <pasajeros>200</pasajeros>
+
+        </cercania>
+
+    </tren>
+    <autobus>
+        <bus>
+            <conductor name="autobusero">
+                <dni>32423467I</dni>
+                <telefono>4323435467</telefono>
+                <matricula>gg5435</matricula>
+            </conductor>
+            <velocidad_máxima>150</velocidad_máxima>
+            <contaminacion_CO2>26</contaminacion_CO2>
+            <medio_movimiento>carretera</medio_movimiento>
+            <pasajeros>30</pasajeros>
+
+        </bus>
+
+    </autobus>
+
+
+</transporte>

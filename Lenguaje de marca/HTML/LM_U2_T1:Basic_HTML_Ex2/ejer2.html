@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 2</title>
+    <style>
+        table, thead,tbody,th ,td {
+            border: 2px dashed #a22d2d;
+        }
+        thead {
+            background-color: bisque;
+            font-size: 23px;
+            th {
+                font-weight: bold;
+            }
+        }
+        tbody {
+            font-size: 20px;
+            td {
+                text-align: center;
+            }
+        }
+        th {
+            font-weight: normal;
+        }
+        tfoot {
+            background-color: bisque;
+            font-size: 23px;
+            th {
+                font-weight: bold;
+            }
+        }
+    </style>
+
+</head>
+<body>
+<table style="width: 1500px" height="700" >
+    <thead>
+        <tr>
+            <th>Número del catálogo</th>
+            <th>Nombre</th>
+            <th>Imagen</th>
+            <th>Web donde lo encontramos</th>
+            <th>Tienda</th>
+            <th>Precio</th>
+        </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th>7821562</th>
+        <th>Atari Mini</th>
+        <th> <img src="./images/Atari.png" width="140"></th>
+        <th><a target="_blank" href="http://www.ebay.es"> <span style="color: blue"> http://www.ebay.es </span></a></th>
+        <th>E-Bay</th>
+        <th>100€</th>
+    </tr>
+    <tr>
+        <th>243243</th>
+        <th>Super Nintendo Mini</th>
+        <th> <img src="./images/Nintendo.png" width="140"></th>
+        <td rowspan="3" colspan="2"> <a target="_blank" href="http://www.amazon.es"> <span style="color:blueviolet"> https://www.amazon.es</span></a></td>
+        <th rowspan="1">100€</th>
+    </tr>
+    <tr>
+        <th>593922</th>
+        <th>Mega Drive Mini</th>
+        <th><img src="./images/mega.png" width="140"></th>
+        <th>200€</th>
+
+    </tr>
+
+    <tr>
+        <th>293944</th>
+        <th>Playstation Mini</th>
+        <th> <img src="./images/play.jpeg" width="140"></th>
+        <th>300€</th>
+    </tbody>
+
+    <tfoot>
+    <tr>
+        <th>Número del catálogo</th>
+        <th>Nombre</th>
+        <th>Imagen</th>
+        <th>Web donde lo encontramos</th>
+        <th>Tienda</th>
+        <th>Precio</th>
+    </tr>
+    </tfoot>
+
+</table>
+</body>
+</html>

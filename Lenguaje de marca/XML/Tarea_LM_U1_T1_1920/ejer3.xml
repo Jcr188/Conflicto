@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concesionario>
+    <catalogo_de_coches>
+        <nombre>A todo gas</nombre>
+        <marca>
+            <nombre>Bugatti</nombre>
+            <pais>Estados Unidos</pais>
+            <coches>
+                <coche>
+                   <nombre>Bugatti Chiron Profilée</nombre>
+                    <matricula>7744IID</matricula>
+                    <ano_de_matriculacion>2018</ano_de_matriculacion>
+                    <modelo>Hiperdeportivo de Bugatti</modelo>
+                    <plazas>2</plazas>
+                    <cc_cilindrada>6000 </cc_cilindrada>
+                </coche>
+                <coche>
+                    <nombre>Bugatti Tourbillon</nombre>
+                    <matricula>5424HfD</matricula>
+                    <ano_de_matriculacion>2019</ano_de_matriculacion>
+                    <modelo>Bugatti Tourbillon</modelo>
+                    <plazas>2</plazas>
+                    <cc_cilindrada>7993</cc_cilindrada>
+                </coche>
+            </coches>
+        </marca>
+        <marca>
+            <nombre>Ferrari</nombre>
+            <pais>Estados Unidos</pais>
+            <coches>
+                <coche>
+                    <nombre>296 GTB Deportivo o coupé</nombre>
+                    <matricula>3454MDD</matricula>
+                    <ano_de_matriculacion>2024</ano_de_matriculacion>
+                    <modelo>Coupe</modelo>
+                    <plazas>2</plazas>
+                    <cc_cilindrada>8000</cc_cilindrada>
+                </coche>
+                <coche>
+                    <nombre>812 Descapotable o convertible</nombre>
+                    <matricula>5424MHd</matricula>
+                    <ano_de_matriculacion>2023</ano_de_matriculacion>
+                    <modelo>812 Descapotable o convertible</modelo>
+                    <plazas>2</plazas>
+                    <cc_cilindrada>6000</cc_cilindrada>
+                </coche>
+            </coches>
+        </marca>
+        <marca>
+            <nombre>Lamborghini</nombre>
+            <pais>Rusia</pais>
+            <coches>
+                <coche>
+                    <nombre>Lamborghini Urus</nombre>
+                    <matricula>4924JGG</matricula>
+                    <ano_de_matriculacion>2024</ano_de_matriculacion>
+                    <modelo>Urus</modelo>
+                    <plazas>2</plazas>
+                    <cc_cilindrada>8000</cc_cilindrada>
+                </coche>
+                <coche>
+                    <nombre>Lamborghini Huracán</nombre>
+                    <matricula>9823MHd</matricula>
+                    <ano_de_matriculacion>2022</ano_de_matriculacion>
+                    <modelo>Hurácan</modelo>
+                    <plazas>2</plazas>
+                    <cc_cilindrada>7000</cc_cilindrada>
+                </coche>
+            </coches>
+        </marca>
+        <marca>
+            <nombre>Ford</nombre>
+            <pais>Alemania</pais>
+            <coches>
+                <coche>
+                    <nombre>Ford Focus</nombre>
+                    <matricula>7788fHG</matricula>
+                    <ano_de_matriculacion>2006</ano_de_matriculacion>
+                    <modelo>Focus</modelo>
+                    <plazas>4</plazas>
+                    <cc_cilindrada>2000</cc_cilindrada>
+                </coche>
+                <coche>
+                    <nombre>Ford Mustang</nombre>
+                    <matricula>8903IHd</matricula>
+                    <ano_de_matriculacion>2018</ano_de_matriculacion>
+                    <modelo>Mustang</modelo>
+                    <plazas>4</plazas>
+                    <cc_cilindrada>4000</cc_cilindrada>
+                </coche>
+            </coches>
+        </marca>
+        <marca>
+            <nombre>SEAT</nombre>
+            <pais>Alemania</pais>
+            <coches>
+                <coche>
+                    <nombre>SEAT Alhambra</nombre>
+                    <matricula>8824IGG</matricula>
+                    <ano_de_matriculacion>2017</ano_de_matriculacion>
+                    <modelo>Alhambra</modelo>
+                    <plazas>4</plazas>
+                    <cc_cilindrada>3000</cc_cilindrada>
+                </coche>
+                <coche>
+                    <nombre>SEAT León</nombre>
+                    <matricula>8977HId</matricula>
+                    <ano_de_matriculacion>2016</ano_de_matriculacion>
+                    <modelo>León</modelo>
+                    <plazas>4</plazas>
+                    <cc_cilindrada>2000</cc_cilindrada>
+                </coche>
+            </coches>
+        </marca>
+    </catalogo_de_coches>
+</concesionario>

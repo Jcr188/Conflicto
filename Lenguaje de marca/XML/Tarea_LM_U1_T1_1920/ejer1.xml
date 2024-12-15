@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Libro>
+    <titulo>39.000 Sentimientos</titulo>
+    <editorial>Candela</editorial>
+    <autor>
+        <nombre>Victoria</nombre>
+        <Dni>1312983F</Dni>
+    </autor>
+    <paginas>400</paginas>
+    <capitulos>
+        <capitulo numero="1">
+            <titulo>La noche estrellada</titulo>
+            <inicio>4</inicio>
+            <finalizacion>20</finalizacion>
+        </capitulo>
+        <capitulo numero="2">
+            <titulo>Paris</titulo>
+            <inicio>21</inicio>
+            <finalizacion>40</finalizacion>
+        </capitulo>
+        <capitulo numero="3">
+            <titulo>Finlandia</titulo>
+            <inicio>41</inicio>
+            <finalizacion>55</finalizacion>
+        </capitulo>
+        <capitulo numero="4">
+            <titulo>La semana perfecta</titulo>
+            <inicio>56</inicio>
+            <finalizacion>70</finalizacion>
+        </capitulo>
+        <capitulo numero="5">
+            <titulo>Tas colao</titulo>
+            <inicio>71</inicio>
+            <finalizacion>71</finalizacion>
+        </capitulo>
+        <capitulo numero="6">
+            <titulo>Una vida contigo</titulo>
+            <inicio>72</inicio>
+            <finalizacion>100</finalizacion>
+        </capitulo>
+    </capitulos>
+</Libro>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

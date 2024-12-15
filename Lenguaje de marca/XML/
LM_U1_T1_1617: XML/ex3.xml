@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Libro_cocina>
+    <receta_Spaguettis>
+        <Ingredientes>Pasta, Nata para cocinar, Bacon, Mantequilla</Ingredientes>
+        <Pasos>
+            <Calentar>Hervir agua y echar Spaguettis</Calentar>
+            <Freir>Echar en la sarten Bacon</Freir>
+            <Juntar>Juntar la mantequilla con Bacon</Juntar>
+            <Echar>Echar Nata para cocinar en la sarten</Echar>
+            <Final>Poner Spaguettis en la sarten y echar en un plato</Final>
+        </Pasos>    
+    </receta_Spaguettis>
+   
+   
+    <receta_Macarrones>
+        <Ingredientes>Macarrones, tomate, chorizo</Ingredientes>
+        <Pasos>
+            <Calentar>Hervir agua y echar Macarrones</Calentar>
+            <Freir>Calentar tomate en sarten</Freir>
+            <Juntar>Juntar el chorizo con el tomate</Juntar>
+            <Echar>Echar los Macarrones junto al tomate y chorizo</Echar>
+            <Final>Sacarte los Macarrones en un plato</Final>
+        </Pasos>
+    </receta_Macarrones>    
+
+</Libro_cocina>

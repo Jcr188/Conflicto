@@ -1,0 +1,54 @@
+<link rel="stylesheet" href="./style.css">
+	 EN EL BODY PONEMOS 
+	 body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+EN EL PRIMER DIV PONEMOS:
+#wrapper{
+    height: 95vh;
+    width: 95vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 3fr;
+    grid-template-areas: "header header"
+                            "content content2";
+    margin: 2vw 0 2vw 2vw;
+    }
+      
+PSEUDOSELECTORES:
+
+:hover: Selecciona un elemento cuando el usuario pasa el ratón sobre él.
+:active: Selecciona un elemento cuando está siendo activado, por ejemplo, cuando un enlace es clickeado.
+:focus: Selecciona un elemento que tiene el foco, como un campo de formulario.
+:first-child: Selecciona el primer hijo de su padre. p:first-child (el primer párrafo dentro de un contenedor).
+:last-child: Selecciona el último hijo de su padre.
+:nth-child(n): Selecciona el enésimo hijo de su padre, donde n puede ser un número, una palabra clave o una fórmula.
+
+LAYOUT:
+Contenido (Content)
+Relleno (Padding)
+Borde (Border)
+Margen (Margin)
+
+CSS Grid permite crear un layout basado en filas y columnas
+Ejemplo: 
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr; /* 3 columnas, la del medio es más ancha */
+}
+
+Flexbox es un modelo de diseño que organiza los elementos dentro de un contenedor, alineándolos en fila o columna.
+Ejemplo:
+
+css
+Copiar código
+.container {
+  display: flex;
+  justify-content: space-between; /* Espacio entre los elementos */
+}
+
+
